@@ -1,5 +1,5 @@
 include <iostream>
 main(){
-cout<<"Hello word 123";
+cout<<"Chào 1";
 return 0;
 }
